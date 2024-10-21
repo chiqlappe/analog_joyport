@@ -9,7 +9,7 @@ PC-8001mk2、PC-8012/8013用アナログジョイポート
 
 ## 基板の製作
 
-[製作マニュアル](https://github.com/chiqlappe/analog_joyport/blob/main/manual.pdf)
+- [製作マニュアル](https://github.com/chiqlappe/analog_joyport/blob/main/manual.pdf)
 
 ## プログラム
 
