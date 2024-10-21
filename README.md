@@ -13,6 +13,6 @@ PC-8001mk2、PC-8012/8013用アナログジョイポート
 
 ## プログラム
 
-[adc.asm](https://github.com/chiqlappe/analog_joyport/blob/main/adc.asm) ADC制御プログラム
+- [adc.asm](https://github.com/chiqlappe/analog_joyport/blob/main/adc.asm) ADC制御プログラム
 
-[port_check.wav](https://github.com/chiqlappe/analog_joyport/blob/main/port_check.wav) ADC動作確認プログラム(マシン語+BASIC)
+- [port_check.wav](https://github.com/chiqlappe/analog_joyport/blob/main/port_check.wav) ADC動作確認プログラム(マシン語+BASIC ファイル名"bas")
